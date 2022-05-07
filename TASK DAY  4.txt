@@ -1,0 +1,7 @@
+**Mark up languages.
+1)XML - Extensible Markup Language.
+2)SGML - Standard Generalized Markup Language.
+3)HTML - Hypertext Markup Language.
+4)XHTML - Extensible Hypertext Markup Language.
+* WHICH TYPE USING VISUAL STUDIO CODE .
+* lIVE BIG PROJECT USING HTML CREATED A WEBSITE ON TOURIST PLACES
